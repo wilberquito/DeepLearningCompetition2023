@@ -1,2 +1,8 @@
 
 Data/
+
+.ipynb_checkpoints/
+
+*.pth
+
+*.zip
